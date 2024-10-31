@@ -1,0 +1,1 @@
+V_out = rms(NNS.Data(:,1)); % แปลงค่า Vrms
