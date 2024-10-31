@@ -1,0 +1,10 @@
+config load "D:\FIBO\Y2-S1\FRA231_RMX\LAB\Lab1\Potentiometer\Poten1\Poten1.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\pongn\STM32Cube\Repository\STM32Cube_FW_G4_V1.5.0"
+
+project generate 
+
+exit wait
